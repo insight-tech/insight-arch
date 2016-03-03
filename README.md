@@ -1,1 +1,2 @@
-# insight-arch
+# insight Architectural Visualization Programme
+# 2016
